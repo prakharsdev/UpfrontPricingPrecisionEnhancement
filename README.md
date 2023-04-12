@@ -1,2 +1,1 @@
-# UpfrontPricingPrecisionEnhancement with (Exploratory Data 
-Analysis)
+# UpfrontPricingPrecisionEnhancement with (Exploratory Data Analysis)
